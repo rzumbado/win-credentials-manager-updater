@@ -1,0 +1,32 @@
+{
+  "ServerList": [
+    {
+      "Description": "Some Server #1",
+      "Server": "SMSVR-1"
+    },
+    {
+      "Description": "Some Server #2",
+      "Server": "SMSVR-2"
+    },
+    {
+      "Description": "Some Server #3",
+      "Server": "SMSVR-3"
+    },
+    {
+      "Description": "Some Server #4",
+      "Server": "SMSVR-4"
+    },
+    {
+      "Description": "Some Server #5",
+      "Server": "SMSVR-5"
+    },
+    {
+      "Description": "Some Server #6",
+      "Server": "SMSVR-6"
+    },
+    {
+      "Description": "Some Server #7",
+      "Server": "SMSVR-7"
+    }
+  ]
+}
